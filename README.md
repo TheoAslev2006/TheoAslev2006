@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @TheoAslev2006
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning java game development, cybersecuriy
+- 💞️ I’m looking to collaborate on nothing 
+- 📫 How to reach me: theo.aslev@gmail.com
+- 😄 Pronouns: He/him  
+- ⚡ Fun fact: i like to bake, play videogames and code in my free time. 
